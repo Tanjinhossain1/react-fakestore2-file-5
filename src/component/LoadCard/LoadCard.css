@@ -1,0 +1,5 @@
+/* load card sectiom style  */
+.cardStyle{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr) ;
+  }

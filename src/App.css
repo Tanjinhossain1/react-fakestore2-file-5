@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* show card section  */
+.image img{
+  width: 250px;
+  margin-left: 40px;
+}
+.image{
+  padding: 30px;
+  margin: 40px;
+}
